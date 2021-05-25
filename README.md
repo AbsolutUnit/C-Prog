@@ -1,1 +1,2 @@
-Coursework for our Systems Fundamentals II Course at University.
+Coursework for Systems Fundamentals II.
+Systems level programming in C.
